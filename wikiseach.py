@@ -3,7 +3,6 @@ from wikipedia import *
 i = input('Choose language>')
 set_lang(i)
 
-
 cycle = True
 
 print ('WikiSeach\nVer 0.0.2')
