@@ -6,7 +6,7 @@ set_lang(i)
 
 cycle = True
 
-print ('WikiSeach by teamur\nVer 0.0.2')
+print ('WikiSeach\nVer 0.0.2')
 
 while cycle == True:
     i = input('seach>')
@@ -27,4 +27,4 @@ while cycle == True:
             file = open(path, "w")
             file.write(con)
             file.close
-        else: 0
+        else: pass
