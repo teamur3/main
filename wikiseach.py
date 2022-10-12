@@ -1,3 +1,4 @@
+#!/bin/python3
 from wikipedia import *
 
 i = input('Choose language>')
